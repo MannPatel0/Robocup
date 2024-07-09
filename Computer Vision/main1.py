@@ -92,7 +92,7 @@ def main():
     ball = None
 
     # Load and process the video
-    video_path = "/Test2.mp4"
+    video_path = "/Users/mannpatel/Desktop/Project/Computer Vision/Test2.mp4"
     cap = cv2.VideoCapture(video_path)
 
     while cap.isOpened():
